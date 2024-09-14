@@ -1,0 +1,2 @@
+# Defender-KQL-basics
+okays
